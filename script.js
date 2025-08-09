@@ -2,7 +2,7 @@
 let palavraSecreta = '';  // Armazena a palavra que o jogador deve adivinhar.
 let letrasCorretas = [];  // Armazena as letras corretas que o jogador adivinhou até o momento.
 let letrasErradas = [];   // Armazena as letras erradas que o jogador tentou adivinhar.
-let tentativas = 5;       // Número de tentativas restantes para o jogador.
+let tentativas = 8;       // Número de tentativas restantes para o jogador.
 let numeroDeLetras = 0;  // Número de letras da palavra secreta.
   
 // Função para iniciar o jogo com a palavra inserida
